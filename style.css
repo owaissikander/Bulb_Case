@@ -1,0 +1,13 @@
+.box {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 225px;
+    width: 220px;
+    
+  }
+.image {
+    height: 225px;
+    width: 220px;
+    background-color: aqua;
+}
